@@ -5,10 +5,10 @@ var socket=io();
   //   to:'jen@example.com',
   //   text:'Hey.This is Auto.'
   // });
-socket.emit('createMessage',{
-  from:'Andrew',
-  rext:'Yup.that works for me'
-});
+// socket.emit('createMessage',{
+//   from:'Andrew',
+//   rext:'Yup.that works for me'
+// });
 
 });
 
